@@ -1,0 +1,7 @@
+name: PermissionSync
+version: '0.1'
+main: me.davide.permissionSync.PermissionSync
+api-version: '1.21'
+
+commands:
+  permission:
